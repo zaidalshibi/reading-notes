@@ -15,6 +15,7 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 
 - GUI and CLI | VCS |--> [Day01](102-day01.md)<br>
 - Git | GitHub | MarkDown |--> [Day02](102-day02.md)<br>
+- Pull requests and Github pages |--> [Day03](102-day03.md)
 </details>
 
 ---
