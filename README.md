@@ -9,6 +9,8 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 
 ### Table of Contents
 ## Code 102 - Intro to Software Development
+- GUI and CLI | VCS <br>
+[Day01](102-day01.md)
 
 ## Code 201 - Foundations of Software Development
 
