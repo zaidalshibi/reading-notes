@@ -22,5 +22,6 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 ---
 ## Code 301 - Intermediate Software Development
 - React and Props |-->[Day01](301-day01.md)
+- State and Props |-->[Day02](301-day02.md)
 
 ## Code 401 - Advanced Software Development
