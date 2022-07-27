@@ -25,5 +25,6 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 - State and Props |-->[Day02](301-day02.md)
 - passing functions as props |--> [Day03](301-day03.md)
 - React and Forms |--> [Day04](301-day04.md)
+- Putting it all together |--> [Day05](301-day05.md)
 
 ## Code 401 - Advanced Software Development
