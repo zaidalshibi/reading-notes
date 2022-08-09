@@ -34,5 +34,6 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 - In Memory Usage |--> [Day10](301-day10.md)
 ---
 - Mongo and Mongoose (SQL and NoSQL) |--> [Day11](301-day11.md)
+- CRUD |--> [Day12](301-day12.md)
 
 ## Code 401 - Advanced Software Development
