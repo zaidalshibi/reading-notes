@@ -11,10 +11,13 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 ---
 ## Code 102 - Intro to Software Development
 
-- GUI and CLI | VCS |--> [Day01](102-day01.md)<br>
-- Git | GitHub | MarkDown |--> [Day02](102-day02.md)<br>
-- Pull requests and Github pages |--> [Day03](102-day03.md) <br>
-- Internet , protocols , URL , HTML and WireFrames |-->[Day04](102-day04.md)
+| Class # | Topic                                                            |
+| ------- | ---------------------------------------------------------------- |
+| 01      | [Intro, GUI and CLI,Terminal](102-day01.md)                      |
+| 02      | [VCS, Git, GitHub, Markdown](102-day02.md)                       |
+| 03      | [Branches, Pull requests, Conflicts, Github pages](102-day03.md) |
+| 04      | [HTML  + CSS Intro + Wireframes](102-day04.md)                   |
+| 05      | [CSS Layout + (colors, selectors,fonts...)](102-day05.md)        |
 
 
 
