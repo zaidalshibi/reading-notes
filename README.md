@@ -24,21 +24,22 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 ## Code 201 - Foundations of Software Development
 
 ## Code 301 - Intermediate Software Development
-- React and Props |-->[Day01](301-day01.md)
-- State and Props |-->[Day02](301-day02.md)
-- passing functions as props |--> [Day03](301-day03.md)
-- React and Forms |--> [Day04](301-day04.md)
-- Putting it all together |--> [Day05](301-day05.md)
----
-- NODE.JS |--> [Day06](301-day06.md)
-- Rest and some APIs |--> [Day07](301-day07.md)
-- APIs |--> [Day08](301-day08.md)
-- Functional Programming and Modules |--> [Day09](301-day09.md)
-- In Memory Usage |--> [Day10](301-day10.md)
----
-- Mongo and Mongoose (SQL and NoSQL) |--> [Day11](301-day11.md)
-- CRUD |--> [Day12](301-day12.md)
-- More CRUD |--> [Day13](301-day13.md)
-- Diversity & Inclusion in the Tech Industry |--> [Day14](301-day14.md)
+
+| Class # | Topic                                                     |
+| ------- | --------------------------------------------------------- |
+| 01      | [React and Props](301-day01.md)                           |
+| 02      | [State and Props](301-day02.md)                           |
+| 03      | [passing functions as props](301-day03.md)                |
+| 04      | [React and Forms](301-day04.md)                           |
+| 05      | [Putting it all together](301-day05.md)                   |
+| 06      | [NODE.JS](301-day06.md)                                   |
+| 07      | [Rest and some APIs](301-day07.md)                        |
+| 08      | [APIs](301-day08.md)                                      |
+| 09      | [Functional Programming and Modules](301-day09.md)        |
+| 10      | [In Memory Usage](301-day10.md)                           |
+| 11      | [Mongo and Mongoose (SQL and NoSQL)](301-day11.md)        |
+| 12      | [CRUD](301-day12.md)                                      |
+| 13      | [More CRUD](301-day13.md)                                 |
+| 14      | [Diversity & Inclusion in the Tech Industry](301-day14.md)|
 
 ## Code 401 - Advanced Software Development
