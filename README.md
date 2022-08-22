@@ -18,6 +18,7 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | 03      | [Branches, Pull requests, Conflicts, Github pages](102-day03.md) |
 | 04      | [HTML  + CSS Intro + Wireframes](102-day04.md)                   |
 | 05      | [CSS Layout + (colors, selectors,fonts...)](102-day05.md)        |
+| 06      | [	HTML Forms + Tables](102-day05.md)                             |
 
 
 
