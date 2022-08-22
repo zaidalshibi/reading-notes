@@ -24,6 +24,17 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 
 ## Code 201 - Foundations of Software Development
 
+| Class # | Topic                                                                           |
+| ------- | ------------------------------------------------------------------------------- |
+| 01      | [JS (data types, operators, array, loops, functions, Popup boxes)](201-day01.md)|
+| 02      | [JS (Obj intro to DOM) + Hoisiting](201-day02.md)                               |
+| 03      | [JS (Constructors)](201-day03.md)                                               |
+| 04      | [JS (DOM Manipulation)](201-day04.md)                                           |
+| 05      | [Events](201-day05.md)                                                          |
+| 06      | [Local Storage and JSON](201-day06.md)                                          |
+| 07      | [CDN Libraries, Chart JS](201-day07.md)                                         |
+| 08      | [Debugging in JS](201-day08.md)                                                 |
+
 ## Code 301 - Intermediate Software Development
 
 | Class # | Topic                                                     |
@@ -44,3 +55,7 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | 14      | [Diversity & Inclusion in the Tech Industry](301-day14.md)|
 
 ## Code 401 - Advanced Software Development
+
+| Class # | Topic                                                     |
+| ------- | --------------------------------------------------------- |
+| 01      |                            |
