@@ -57,6 +57,6 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 
 ## Code 401 - Advanced Software Development
 
-| Class # | Topic                                                     |
-| ------- | --------------------------------------------------------- |
-| 01      |                            |
+| Class #  | Topic                                                     |
+| -------- | --------------------------------------------------------- |
+| pre work | [SQL Practice](401-reading-notes/sqlPractice.md)          |
