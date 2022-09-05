@@ -63,3 +63,4 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | pre work | [The Command Line!](401-reading-notes/theCommandLine.md)               |
 | pre work | [Command Line Cheat Sheet](401-reading-notes/commandLineCheatSheet.md) |
 | pre work | [Prep Your Mindset](401-reading-notes/prepYourMindset.md)              |
+| Day 01   | [Express](401-reading-notes/Express.md)                                |
