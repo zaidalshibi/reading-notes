@@ -66,3 +66,4 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | Middlewares | [Express](401-reading-notes/Express.md)                                |
 | Sequelize   | [SQL database and Sequelize](401-reading-notes/sequelize.md)           |
 | Stack and Queue | [Stack and Queue](401-reading-notes/StackandQueue.md)              |
+| Reducers        | [React Reducers](401-reading-notes/ReactReducer.md)                |
