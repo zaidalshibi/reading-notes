@@ -4,11 +4,11 @@
 
 ### Review and Research
 
-- How can we ensure that an effect hook runs only once?
+- How can we ensure that an effect hook runs only once? <br />
 pass an empty dependancy array
-- Can useState() update more than one state variable at the same time?
+- Can useState() update more than one state variable at the same time? <br />
 Yes we can by passing the updated variables but with a spread operator for maintaining the unchanged values
-- Is useState() synchronous?
+- Is useState() synchronous? <br />
 No it is not
 
 #### for more info checkout
