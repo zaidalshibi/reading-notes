@@ -28,7 +28,7 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | Class # | Topic                                                                                             |
 | ------- | ------------------------------------------------------------------------------------------------- |
 | 01      | [JS (data types, operators, array, loops, functions, Popup boxes)](201-reading-notes/201-day01.md)|
-| 02      | [JS (Obj intro to DOM) + Hoisiting](201-reading-notes/201-day02.md)                               |
+| 02      | [JS (Obj intro to DOM) + Hoisting](201-reading-notes/201-day02.md)                                |
 | 03      | [JS (Constructors)](201-reading-notes/201-day03.md)                                               |
 | 04      | [JS (DOM Manipulation)](201-reading-notes/201-day04.md)                                           |
 | 05      | [Events](201-reading-notes/201-day05.md)                                                          |
@@ -63,7 +63,10 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | pre work    | [The Command Line!](401-reading-notes/theCommandLine.md)               |
 | pre work    | [Command Line Cheat Sheet](401-reading-notes/commandLineCheatSheet.md) |
 | pre work    | [Prep Your Mindset](401-reading-notes/prepYourMindset.md)              |
-| Middlewares | [Express](401-reading-notes/Express.md)                                |
+| Middleware  | [Express](401-reading-notes/Express.md)                                |
 | Sequelize   | [SQL database and Sequelize](401-reading-notes/sequelize.md)           |
 | Stack and Queue | [Stack and Queue](401-reading-notes/StackandQueue.md)              |
 | Reducers        | [React Reducers](401-reading-notes/ReactReducer.md)                |
+| OSL Model       | [OSL Model](401-reading-notes/OSLModel.md)                         |
+| OSL Layers      | [OSL Layers](401-reading-notes/OSL-Layers.md)                      |
+| Socket io       | [Socket io](401-reading-notes/Socket-io.md)                        |
