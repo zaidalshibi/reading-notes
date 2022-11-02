@@ -1,3 +1,5 @@
+# Hash Table
+
 A hash table is an implementation of an associative array, a list of key-value pairs that allow you to retrieve a value via a key. Internally a hash table utilizes a hash function to transform a key value into an index that points to where the value is stored in memory. Hash tables have fast search, insertion and delete operations.
 
 There are two main ways to implement a hash table/associative array in JavaScript.
