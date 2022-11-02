@@ -70,3 +70,4 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | OSL Model       | [OSL Model](401-reading-notes/OSLModel.md)                         |
 | OSL Layers      | [OSL Layers](401-reading-notes/OSL-Layers.md)                      |
 | Socket io       | [Socket io](401-reading-notes/Socket-io.md)                        |
+| Hash Table      | [Hash Table](401-reading-notes/HashTable.md)                       |
