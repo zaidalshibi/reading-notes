@@ -73,3 +73,4 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | Hash Table      | [Hash Table](401-reading-notes/HashTable.md)                       |
 | Chakra UI       | [Chakra ui](401-reading-notes/chakraUI.md)                         |
 | Graphs          | [Graphs](401-reading-notes/Graphs.md)                              |
+| Redux           | [Redux](401-reading-notes/Redux.md)                                |
