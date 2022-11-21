@@ -65,12 +65,13 @@ Here you can find my [GitHub](https://github.com/zaidalshibi) , [LinkedIn](https
 | pre work    | [Prep Your Mindset](401-reading-notes/prepYourMindset.md)              |
 | Middleware  | [Express](401-reading-notes/Express.md)                                |
 | Sequelize   | [SQL database and Sequelize](401-reading-notes/sequelize.md)           |
-| Stack and Queue | [Stack and Queue](401-reading-notes/StackandQueue.md)              |
-| Reducers        | [React Reducers](401-reading-notes/ReactReducer.md)                |
-| OSL Model       | [OSL Model](401-reading-notes/OSLModel.md)                         |
-| OSL Layers      | [OSL Layers](401-reading-notes/OSL-Layers.md)                      |
-| Socket io       | [Socket io](401-reading-notes/Socket-io.md)                        |
-| Hash Table      | [Hash Table](401-reading-notes/HashTable.md)                       |
-| Chakra UI       | [Chakra ui](401-reading-notes/chakraUI.md)                         |
-| Graphs          | [Graphs](401-reading-notes/Graphs.md)                              |
-| Redux           | [Redux](401-reading-notes/Redux.md)                                |
+| Stack and Queue     | [Stack and Queue](401-reading-notes/StackandQueue.md)              |
+| Reducers            | [React Reducers](401-reading-notes/ReactReducer.md)                |
+| OSL Model           | [OSL Model](401-reading-notes/OSLModel.md)                         |
+| OSL Layers          | [OSL Layers](401-reading-notes/OSL-Layers.md)                      |
+| Socket io           | [Socket io](401-reading-notes/Socket-io.md)                        |
+| Hash Table          | [Hash Table](401-reading-notes/HashTable.md)                       |
+| Chakra UI           | [Chakra ui](401-reading-notes/chakraUI.md)                         |
+| Graphs              | [Graphs](401-reading-notes/Graphs.md)                              |
+| Redux               | [Redux](401-reading-notes/Redux.md)                                |
+| Redux - createSlice | [Redux - createSlice](401-reading-notes/createSlice.md)            |
